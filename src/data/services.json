@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Cata de café de especialidad",
+    "description": "Degustación guiada de cinco orígenes con notas de cata y maridaje dulce.",
+    "duration": 60,
+    "price": 15000,
+    "category": "Experiencias",
+    "available": true
+  },
+  {
+    "id": 2,
+    "name": "Taller de barismo inicial",
+    "description": "Introducción práctica a espresso, molienda y texturizado de leche.",
+    "duration": 90,
+    "price": 25000,
+    "category": "Talleres",
+    "available": true
+  },
+  {
+    "id": 3,
+    "name": "Arriendo de sala de reuniones",
+    "description": "Sala para ocho personas con proyector y café de cortesía incluido.",
+    "duration": 120,
+    "price": 40000,
+    "category": "Espacios",
+    "available": false
+  }
+]
