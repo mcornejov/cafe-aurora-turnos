@@ -21,8 +21,8 @@ de forma automática.
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/mcornejov/coderhouse-backend.git
-cd coderhouse-backend/PreEntrega1
+git clone https://github.com/mcornejov/coderhouse-backend-preentrega1.git
+cd coderhouse-backend-preentrega1
 
 # Instalar dependencias
 pnpm install
